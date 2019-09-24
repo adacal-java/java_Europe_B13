@@ -1,4 +1,4 @@
-package dat16_classObejcts;
+package day16_classObejcts;
 
 public class Contact {
 	
