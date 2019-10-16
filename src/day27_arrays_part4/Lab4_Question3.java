@@ -27,9 +27,6 @@ public class Lab4_Question3 {
 			return "false";
 		}
 		
-		
-		
-		
 	}
 
 }
